@@ -26,7 +26,7 @@ To track key business KPIs and generate insights for better decision-making.
 - Analyzed regional sales contribution
 
 ## 📷 Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](https://github.com/user-attachments/assets/98e8e7f9-83e9-4f61-be0e-1bbd14127d82)
 
 ## 🚀 Skills Demonstrated
 - Data Analysis
